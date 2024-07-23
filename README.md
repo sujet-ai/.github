@@ -17,7 +17,7 @@ Our cutting-edge platform offers AI-augmented decision-making tools to streamlin
 - **Document Generation**: Advanced AI Copilot for generating comprehensive reports and documents.
 - **Advanced AI Copilot**: Market trends analysis, evaluation, and due diligence through benchmarking analysis, ensuring optimal decision-making processes.
 
----
+
 
 ## Key Features
 
@@ -25,9 +25,7 @@ Our cutting-edge platform offers AI-augmented decision-making tools to streamlin
 - **Text Generation Model**: Sujet Finance 8B v0.1
 - **Image-to-Text Model**: Lutece Vision Base
 
-
-rity
-
+---
 
 ## Connect with Us
 
